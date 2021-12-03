@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "REN_VICTOR_TP1_ST2TRD", "REN_VICTOR_TP3_ST2TRD\REN_VICTOR_TP1_ST2TRD.csproj", "{D8C46000-6ACA-46B8-888E-2AFFE8D3DDF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8C46000-6ACA-46B8-888E-2AFFE8D3DDF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8C46000-6ACA-46B8-888E-2AFFE8D3DDF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8C46000-6ACA-46B8-888E-2AFFE8D3DDF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8C46000-6ACA-46B8-888E-2AFFE8D3DDF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57B72974-37E2-4C30-B00E-7E1C90D223B5}
+	EndGlobalSection
+EndGlobal
